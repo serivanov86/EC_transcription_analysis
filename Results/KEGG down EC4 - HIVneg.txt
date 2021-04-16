@@ -1,0 +1,1 @@
+p.geomean	stat.mean	p.val	q.val	set.size	EC1_13.signal	EC1_12.signal	EC1_11.signal	EC1_10.signal	EC1_09.signal	EC1_08.signal	EC1_07.signal	EC1_06.signal	EC1_05.signal	EC1_04.signal	EC1_03.signal	EC1_02.signal	EC1_01.signal
